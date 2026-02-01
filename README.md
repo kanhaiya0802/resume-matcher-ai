@@ -38,6 +38,7 @@ The system is designed to simulate how modern ATS (Applicant Tracking Systems) e
 
 ## Project Structure
 
+```bash
 resume_matcher_ai/
 │
 ├── app.py # Main Streamlit application
@@ -63,6 +64,7 @@ resume_matcher_ai/
 │
 └── venv/ # Virtual environment (ignored)
 
+```
 ---
 
 ## How the System Works
@@ -125,3 +127,4 @@ Author
 
 Developed by Kanhaiya Jee
 B.Tech Information Technology Student
+
