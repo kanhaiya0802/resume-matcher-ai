@@ -1,9 +1,6 @@
 streamlit
-tensorflow
-numpy
 pandas
+numpy
 scikit-learn
 nltk
-matplotlib
-PyPDF2
-joblib
+tensorflow-cpu==2.12.0
